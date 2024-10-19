@@ -1,4 +1,4 @@
-package com.goonok.dbmsconnection.controller;
+package com.goonok.dbmslab.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

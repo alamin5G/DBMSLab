@@ -1,4 +1,4 @@
-package com.goonok.dbmsconnection;
+package com.goonok.dbmslab;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

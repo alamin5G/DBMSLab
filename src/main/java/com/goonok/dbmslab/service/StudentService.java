@@ -1,7 +1,4 @@
-package com.goonok.dbmsconnection.service;
-
-
-import org.springframework.stereotype.Service;
+package com.goonok.dbmslab.service;
 
 
 public class StudentService {
